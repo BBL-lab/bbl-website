@@ -28,4 +28,4 @@ user_groups:
   - Lab members
 ---
 
-Charlotte Constant-Varlet is a PhD student in the Brain, Behavior, and Learning Lab. Her doctoral research examines the intergenerational transmission of mathematical abilities and their neural bases, using functional neuroimaging (fMRI) to study how the brain systems supporting arithmetic and number processing are shared between parents and their children. Her work contributes to the lab's broader effort to understand the origins of mathematical development and learning difficulties such as dyscalculia.
+Charlotte Constant-Varlet is a PhD student in the Brain, Behavior, and Learning Lab. Her doctoral research examines the intergenerational transmission of mathematical abilities and their neural bases, using functional neuroimaging (fMRI) to study how the brain systems supporting arithmetic and number processing are shared between parents and their children.

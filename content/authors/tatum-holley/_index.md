@@ -8,6 +8,7 @@ last_name: Holley
 superuser: false
 # Role/position
 role: Research Assistant
+rank: 10
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

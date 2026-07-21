@@ -19,6 +19,11 @@ interests:
   - Intergenerational transmission
   - Arithmetic and number processing
   - Functional neuroimaging (fMRI)
+# Social/Academic Networking
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:charlotte.constant@inserm.fr'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 # Highlight the author in author lists? (true/false)

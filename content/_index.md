@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Brain, Behavior, and Learning (BBL) Lab** studies the cognitive and neural mechanisms of human learning and development. Using brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition — and how this knowledge can help us understand learning disabilities and inform educational practices. The lab is led by Jérôme Prado and is based at the Lyon Neuroscience Research Center (CRNL) in Lyon, France.
+        The **Brain, Behavior, and Learning (BBL) Lab** studies the cognitive and neural mechanisms of human learning and development. Using brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. We also study how this knowledge can help us understand learning disabilities and inform educational practices. The lab is led by Jérôme Prado and is based at the Lyon Neuroscience Research Center (CRNL) in Lyon, France.
   
   - block: collection
     content:

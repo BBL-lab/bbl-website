@@ -12,8 +12,8 @@ sections:
           - Principal Investigators
           - Lab members
           - Affiliated members
-      sort_by: Params.last_name
-      sort_ascending: false
+      sort_by: Params.rank
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true

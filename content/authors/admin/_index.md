@@ -8,6 +8,7 @@ last_name: Prado
 superuser: true
 # Role/position
 role: CNRS Research Director
+rank: 1
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

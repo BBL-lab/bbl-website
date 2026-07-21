@@ -36,7 +36,7 @@ email: ''
 highlight_name: false
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Cléa Girard is a CNRS Research Scientist (Chargée de Recherche) at the Laboratoire de Psychologie et NeuroCognition (LPNC) in Grenoble, currently associated with the Lyon Neuroscience Research Center (CRNL). Her research investigates how children's home environment shapes the development of their mathematical skills, together with its behavioral and neural correlates. Her interdisciplinary work bridges cognitive science and sociology to shed light on the origins of educational inequalities.

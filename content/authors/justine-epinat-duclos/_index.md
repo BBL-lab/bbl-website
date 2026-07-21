@@ -14,6 +14,11 @@ organizations:
     url: 'https://www.crnl.fr/fr/plateforme/planete'
 # Short bio
 bio: CNRS research engineer heading the CRNL's PLANETE platform, where the lab's testing takes place.
+# Social/Academic Networking
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:justine.epinat@cnrs.fr'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 # Highlight the author in author lists? (true/false)

@@ -8,6 +8,7 @@ last_name: Girard
 superuser: false
 # Role/position
 role: CNRS Research Scientist
+rank: 2
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

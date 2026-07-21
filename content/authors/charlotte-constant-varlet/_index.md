@@ -14,11 +14,7 @@ organizations:
     url: 'https://www.crnl.fr'
 # Short bio
 bio: I study the intergenerational transmission of mathematical abilities and their neural bases using functional neuroimaging.
-interests:
-  - Numerical cognition
-  - Intergenerational transmission
-  - Arithmetic and number processing
-  - Functional neuroimaging (fMRI)
+
 # Social/Academic Networking
 social:
   - icon: envelope

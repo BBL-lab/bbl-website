@@ -28,4 +28,4 @@ user_groups:
   - Lab members
 ---
 
-Tatum Holley is a research assistant and lab manager in the Brain, Behavior, and Learning Lab. She supports the day-to-day running of the lab's research projects, handling participant recruitment, scheduling, data collection and testing, and the practical coordination that keeps the lab's studies running smoothly.
+Tatum Holley is a research assistant and lab manager in the Brain, Behavior, and Learning Lab. She holds a BA in Psychology from Bates College. She oversees the day-to-day running of the lab's research projects — participant recruitment, scheduling, data collection and cognitive testing with children, and the practical coordination that keeps studies running smoothly.

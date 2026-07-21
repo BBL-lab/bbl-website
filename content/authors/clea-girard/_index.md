@@ -19,6 +19,11 @@ interests:
   - Mathematical cognition development
   - Cognitive science and sociology
   - Educational inequalities
+education:
+  courses:
+    - course: PhD in Cognitive Neuroscience
+      institution: Université de Lyon
+      year: 2021
 # Social/Academic Networking
 social:
   - icon: envelope
@@ -39,4 +44,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Cléa Girard is a CNRS Research Scientist (Chargée de Recherche) at the Laboratoire de Psychologie et NeuroCognition (LPNC) in Grenoble, currently associated with the Lyon Neuroscience Research Center (CRNL). Her research investigates how children's home environment shapes the development of their mathematical skills, together with its behavioral and neural correlates. Her interdisciplinary work bridges cognitive science and sociology to shed light on the origins of educational inequalities.
+Cléa Girard is a CNRS Research Scientist (Chargée de Recherche) at the Lyon Neuroscience Research Center (CRNL). Her research investigates how children's home environment shapes the development of their mathematical skills, together with its behavioral and neural correlates. Her interdisciplinary work bridges cognitive science and sociology to shed light on the origins of educational inequalities. She co-leads the PREMATH project with Jérôme Prado.

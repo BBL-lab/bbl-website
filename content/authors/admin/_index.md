@@ -7,7 +7,7 @@ last_name: Prado
 # Is this the primary user of the site?
 superuser: true
 # Role/position
-role: Directeur de Recherche CNRS
+role: CNRS Research Director
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

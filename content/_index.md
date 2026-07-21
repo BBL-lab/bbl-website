@@ -3,19 +3,18 @@
 title:
 date: 2022-10-24
 type: landing
-
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Brain, Behavior,
+        and Learning Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Brain, Behavior, and Learning (BBL) Lab** studies the cognitive and neural mechanisms of human learning and development. Using brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition — and how this knowledge can help us understand learning disabilities and inform educational practices. The lab is led by Jérôme Prado and is based at the Lyon Neuroscience Research Center (CRNL) in Lyon, France.
   
   - block: collection
     content:
@@ -55,10 +54,9 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
   - block: collection
     content:
-      title: Latest Preprints
+      title: Recent Publications
       text: ""
       count: 5
       filters:
@@ -68,7 +66,6 @@ sections:
     design:
       view: citation
       columns: '1'
-
   - block: markdown
     content:
       title:

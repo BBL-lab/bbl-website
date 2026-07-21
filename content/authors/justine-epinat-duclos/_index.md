@@ -23,4 +23,4 @@ user_groups:
   - Affiliated members
 ---
 
-Justine Epinat-Duclos is a CNRS Research Engineer (Ingénieur de Recherche) who heads the [PLANETE platform](https://www.crnl.fr/fr/plateforme/planete) at the Lyon Neuroscience Research Center — the facility where much of the lab's behavioral and developmental testing takes place. She provides essential methodological and technical support for the lab's studies with children and families.
+Justine Epinat-Duclos is a CNRS Research Engineer (Ingénieur de Recherche) who heads the [PLANETE platform](https://www.crnl.fr/fr/plateforme/planete) at the CRNL. PLANETE is the facility where much of the lab's behavioral and developmental testing takes place. She provides essential methodological and technical support for the lab's studies with children and families.

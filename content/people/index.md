@@ -11,6 +11,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Lab members
+          - Affiliated members
       sort_by: Params.last_name
       sort_ascending: false
     design:

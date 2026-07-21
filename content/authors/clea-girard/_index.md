@@ -7,7 +7,7 @@ last_name: Girard
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: Chargée de Recherche CNRS
+role: CNRS Research Scientist
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

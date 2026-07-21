@@ -7,7 +7,7 @@ last_name: Epinat-Duclos
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: Research Engineer (Ingénieur de Recherche), CNRS
+role: CNRS Research Engineer
 # Organizations/Affiliations
 organizations:
   - name: Head of the PLANETE platform, CRNL

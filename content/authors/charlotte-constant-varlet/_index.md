@@ -8,6 +8,7 @@ last_name: Constant-Varlet
 superuser: false
 # Role/position
 role: PhD Student
+rank: 30
 # Organizations/Affiliations
 organizations:
   - name: Lyon Neuroscience Research Center (CRNL)

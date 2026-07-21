@@ -44,7 +44,7 @@ email: ''
 highlight_name: true
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Jérôme Prado is a CNRS Research Director (Directeur de Recherche) at the Lyon Neuroscience Research Center (CRNL), where he leads the Brain, Behavior, and Learning (BBL) Lab within the EDUWELL team. His research investigates the cognitive and neural mechanisms underlying children's learning and development, with a particular focus on the acquisition of mathematical skills and reasoning. Combining behavioral experiments with neuroimaging (fMRI and EEG), his work explores how these findings can help us understand learning disabilities such as dyscalculia and inform educational practices.

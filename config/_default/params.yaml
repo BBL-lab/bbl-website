@@ -3,8 +3,8 @@
 # Documentation: https://docs.hugoblox.com/
 # Appearance
 appearance:
-  theme_day: ocean
-  theme_night: ocean
+  theme_day: forest
+  theme_night: forest
   font: classic
   font_size: L
 # SEO

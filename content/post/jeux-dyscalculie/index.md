@@ -27,4 +27,4 @@ An important caveat, which we state in the booklet itself: people with dyscalcul
 
 The booklet was created by members of the Brain, Behavior and Learning team at the CRNL — Lise Viallet, Aurélie Lafaix, Charlotte Constant-Varlet, Jérôme Prado, Honorine Bouchet and Tatum Holley.
 
-[Download the games (PDF, in French)](Jeux-dyscalculie.pdf)
+[Download the games (PDF, in French)](Jeux_dyscalculie.pdf)

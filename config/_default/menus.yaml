@@ -16,6 +16,6 @@ main:
   - name: Open positions
     url: open-positions
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Participate
+    url: participate
     weight: 60

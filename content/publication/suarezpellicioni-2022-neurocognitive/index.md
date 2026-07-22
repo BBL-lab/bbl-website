@@ -6,11 +6,10 @@ authors:
 - J. Prado
 - J. R. Booth
 date: '2022-01-01'
-publishDate: '2026-07-22T07:44:02.831216Z'
+publishDate: '2026-07-22T09:37:05.865625Z'
 publication_types:
 - article-journal
 publication: '*Current Opinion in Behavioral Sciences*'
 doi: 10.1016/j.cobeha.2022.101228
-url_pdf: 
-  https://bbl-lab.fr/wp-content/uploads/2022/11/1-s2.0-S2352154622001346-main-2.pdf
+url_pdf: uploads/1-s2.0-S2352154622001346-main-2.pdf
 ---

@@ -10,10 +10,10 @@ authors:
 - J. Prado
 - M. Meunier
 date: '2023-01-01'
-publishDate: '2026-07-22T07:44:02.805054Z'
+publishDate: '2026-07-22T09:37:05.843158Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage*'
 doi: 10.1016/j.neuroimage.2023.120247
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2023/07/1-s2.0-S1053811923003981-main.pdf
+url_pdf: uploads/1-s2.0-S1053811923003981-main.pdf
 ---

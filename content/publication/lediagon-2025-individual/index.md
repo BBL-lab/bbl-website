@@ -7,10 +7,10 @@ authors:
 - J.-B. Van der Henst
 - J. Prado
 date: '2025-01-01'
-publishDate: '2026-07-22T07:44:02.697720Z'
+publishDate: '2026-07-22T09:37:05.771560Z'
 publication_types:
 - article-journal
 publication: '*PLOS One*'
 doi: 10.1371/journal.pone.0324547
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2025/07/journal.pone_.0324547.pdf
+url_pdf: uploads/journal.pone_.0324547.pdf
 ---

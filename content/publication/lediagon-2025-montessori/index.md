@@ -6,10 +6,10 @@ authors:
 - J.-B. Van der Henst
 - J. Prado
 date: '2025-01-01'
-publishDate: '2026-07-22T07:44:02.671663Z'
+publishDate: '2026-07-22T09:37:05.749597Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-025-27687-2
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2026/02/s41598-025-27687-2.pdf
+url_pdf: uploads/s41598-025-27687-2.pdf
 ---

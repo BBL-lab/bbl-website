@@ -7,7 +7,8 @@ sections:
   - block: hero
     content:
       title: ''
-      hero_media: welcome.jpg
+            image:
+        filename: welcome.jpg
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem; margin-bottom:1.25rem;">
           <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:90px; width:auto;">

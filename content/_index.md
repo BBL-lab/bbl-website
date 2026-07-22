@@ -22,7 +22,6 @@ sections:
           <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:60px; width:auto;"></a>
           <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:36px; width:auto;"></a>
           <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:58px; width:auto;"></a>
-          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Centre de Recherche en Neurosciences de Lyon" style="height:56px; width:auto;"></a>
         </div>
     design:
       columns: '1'

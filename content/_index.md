@@ -1,14 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ''
 date: 2022-10-24
 type: landing
 sections:
-- block: hero
+  - block: hero
     content:
-      title: |
-      image:
-        filename: welcome.jpg
+      title: ''
+      hero_media: welcome.jpg
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem; margin-bottom:1.25rem;">
           <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:90px; width:auto;">
@@ -19,16 +18,16 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: ''
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:4rem; padding:1rem 0;">
-          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:110px; width:auto;"></a>
-          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:65px; width:auto;"></a>
-          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:105px; width:auto;"></a>
+          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:88px; width:auto;"></a>
+          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:52px; width:auto;"></a>
+          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:84px; width:auto;"></a>
         </div>
     design:
       columns: '1'
-  
+
   - block: collection
     content:
       title: Latest News
@@ -47,11 +46,11 @@ sections:
     design:
       view: compact
       columns: '1'
-  
+
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: ''
       count: 5
       filters:
         folders:
@@ -59,9 +58,10 @@ sections:
     design:
       view: citation
       columns: '1'
+
   - block: markdown
     content:
-      title:
+      title: ''
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}

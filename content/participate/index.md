@@ -15,7 +15,7 @@ sections:
 
         **What taking part involves.** Your child plays a series of short, game-like activities designed to measure early skills in numbers, language, and reasoning. We also record brain activity using a portable EEG cap. This is a completely painless and non-invasive method that simply measures the natural electrical activity produced at the surface of the scalp. Parents are asked to complete questionnaires about the kinds of activities you do together at home. We will also provide a series of games and activites you can do at home with your child.
 
-        **Who we are looking for.** Families with a young child, whether your child was born preterm or at term.
+        **Who we are looking for.** Families with a child currently in kindergarten, whether your child was born preterm or at term.
 
         If you would like to take part, or simply want to know more before deciding, please get in touch using the form below.
 

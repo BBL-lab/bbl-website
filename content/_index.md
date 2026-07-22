@@ -11,8 +11,8 @@ sections:
         filename: welcome.jpg
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:2rem; margin-bottom:1.5rem;">
-          <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:135px; width:auto;">
-          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center (CRNL)" style="height:93px; width:auto;"></a>
+          <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:170px; width:auto;">
+          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center (CRNL)" style="height:120px; width:auto;"></a>
         </div>
 
         The ***Brain, Behavior, and Learning lab*** studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. The lab is led by Jérôme Prado and is part of the EDUWELL team at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France.
@@ -21,9 +21,9 @@ sections:
       title: ''
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:4rem; padding:1rem 0;">
-          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:88px; width:auto;"></a>
-          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:52px; width:auto;"></a>
-          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:84px; width:auto;"></a>
+          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:132px; width:auto;"></a>
+          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:78px; width:auto;"></a>
+          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:126px; width:auto;"></a>
         </div>
     design:
       columns: '1'

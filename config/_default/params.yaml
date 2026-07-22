@@ -3,8 +3,8 @@
 # Documentation: https://docs.hugoblox.com/
 # Appearance
 appearance:
-  theme_day: coffee
-  theme_night: coffee
+  theme_day: minimal
+  theme_night: minimal
   font: classic
   font_size: L
 # SEO

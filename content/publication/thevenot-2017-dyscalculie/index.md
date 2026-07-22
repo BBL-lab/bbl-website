@@ -5,9 +5,9 @@ authors:
 - K. Uittenhove
 - J. Prado
 date: '2017-01-01'
-publishDate: '2026-07-22T07:44:03.047330Z'
+publishDate: '2026-07-22T09:37:06.052733Z'
 publication_types:
 - article-journal
 publication: '*Développements*'
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2018/08/Thevenot_Developpements_2016.pdf
+url_pdf: uploads/Thevenot_Developpements_2016.pdf
 ---

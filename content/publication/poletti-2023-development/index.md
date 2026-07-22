@@ -7,10 +7,10 @@ authors:
 - J. Prado
 - C. Thevenot
 date: '2023-01-01'
-publishDate: '2026-07-22T07:44:02.812097Z'
+publishDate: '2026-07-22T09:37:05.849203Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Child Psychology*'
 doi: 10.1016/j.jecp.2023.105710
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2023/06/1-s2.0-S0022096523000863-main.pdf
+url_pdf: uploads/1-s2.0-S0022096523000863-main.pdf
 ---

@@ -5,9 +5,9 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2022-01-01'
-publishDate: '2026-07-22T07:44:02.863032Z'
+publishDate: '2026-07-22T09:37:05.893384Z'
 publication_types:
 - chapter
 publication: '*Cambridge Handbook of Cognitive Development*'
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2020/02/9781108423878c27_p566-584-1.pdf
+url_pdf: uploads/9781108423878c27_p566-584-1.pdf
 ---

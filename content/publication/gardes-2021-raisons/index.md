@@ -8,9 +8,9 @@ authors:
 - P. Courtier
 - J. Prado
 date: '2021-01-01'
-publishDate: '2026-07-22T07:44:02.869504Z'
+publishDate: '2026-07-22T09:37:05.899147Z'
 publication_types:
 - article-journal
 publication: '*Raisons éducatives*'
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2021/12/RAISED_025_0237.pdf
+url_pdf: uploads/RAISED_025_0237.pdf
 ---

@@ -12,10 +12,10 @@ authors:
 - J. Léone
 - J. Prado
 date: '2021-01-01'
-publishDate: '2026-07-22T07:44:02.895261Z'
+publishDate: '2026-07-22T09:37:05.921358Z'
 publication_types:
 - article-journal
 publication: '*Child Development*'
 doi: 10.1111/cdev.13575
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2021/03/cdev.13575-1.pdf
+url_pdf: uploads/cdev.13575-1.pdf
 ---

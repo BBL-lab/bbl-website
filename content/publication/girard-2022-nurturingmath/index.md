@@ -9,10 +9,10 @@ authors:
 - L. Longo
 - J. Prado
 date: '2022-01-01'
-publishDate: '2026-07-22T07:44:02.856569Z'
+publishDate: '2026-07-22T09:37:05.887517Z'
 publication_types:
 - article-journal
 publication: '*Psychological Science*'
 doi: 10.1177/09567976211034498
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2021/06/09567976211034498.pdf
+url_pdf: uploads/09567976211034498.pdf
 ---

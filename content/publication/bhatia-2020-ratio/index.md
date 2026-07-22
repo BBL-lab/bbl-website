@@ -10,10 +10,10 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2020-01-01'
-publishDate: '2026-07-22T07:44:02.933749Z'
+publishDate: '2026-07-22T09:37:05.955153Z'
 publication_types:
 - article-journal
 publication: '*Quarterly Journal of Experimental Psychology*'
 doi: 10.1177/1747021820940631
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2020/06/QJEP-Paper_MTS.pdf
+url_pdf: uploads/QJEP-Paper_MTS.pdf
 ---

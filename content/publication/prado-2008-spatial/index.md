@@ -5,10 +5,10 @@ authors:
 - J.-B. Van der Henst
 - I. A. Noveck
 date: '2008-01-01'
-publishDate: '2026-07-22T07:44:03.174380Z'
+publishDate: '2026-07-22T09:37:06.162175Z'
 publication_types:
 - article-journal
 publication: '*Quarterly Journal of Experimental Psychology*'
 doi: 10.1080/17470210801954777
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2018/08/Prado_QJEP_2008.pdf
+url_pdf: uploads/Prado_QJEP_2008.pdf
 ---

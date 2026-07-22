@@ -11,10 +11,10 @@ authors:
 - C. Thevenot
 - J. Prado
 date: '2020-01-01'
-publishDate: '2026-07-22T07:44:02.927298Z'
+publishDate: '2026-07-22T09:37:05.949599Z'
 publication_types:
 - article-journal
 publication: '*Annals of the New York Academy of Sciences*'
 doi: 10.1111/nyas.14464
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2020/07/nyas.14464.pdf
+url_pdf: uploads/nyas.14464.pdf
 ---

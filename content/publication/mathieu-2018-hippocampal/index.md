@@ -9,10 +9,10 @@ authors:
 - C. Thevenot
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-07-22T07:44:02.996981Z'
+publishDate: '2026-07-22T09:37:06.009772Z'
 publication_types:
 - article-journal
 publication: '*Developmental Cognitive Neuroscience*'
 doi: 10.1016/j.dcn.2017.06.001
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2018/08/Mathieu_DCN_2018.pdf
+url_pdf: uploads/Mathieu_DCN_2018.pdf
 ---

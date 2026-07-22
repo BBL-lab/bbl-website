@@ -8,10 +8,10 @@ authors:
 - H. Chesnokova
 - J. Prado
 date: '2023-01-01'
-publishDate: '2026-07-22T07:44:02.818650Z'
+publishDate: '2026-07-22T09:37:05.854682Z'
 publication_types:
 - article-journal
 publication: '*PLOS Biology*'
 doi: 10.1371/journal.pbio.3001935
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2023/04/journal.pbio_.3001935.pdf
+url_pdf: uploads/journal.pbio_.3001935.pdf
 ---

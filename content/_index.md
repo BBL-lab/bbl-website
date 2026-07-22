@@ -13,6 +13,19 @@ sections:
         <br>
         
         The ***Brain, Behavior, and Learning lab*** studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. The lab is led by Jérôme Prado and is part of the EDUWELL team at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France.
+
+  - block: markdown
+    content:
+      title:
+      text: |
+        <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:3rem; padding:0.5rem 0;">
+          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:60px; width:auto;"></a>
+          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:36px; width:auto;"></a>
+          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:58px; width:auto;"></a>
+          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Centre de Recherche en Neurosciences de Lyon" style="height:56px; width:auto;"></a>
+        </div>
+    design:
+      columns: '1'
   
   - block: collection
     content:

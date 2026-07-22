@@ -5,9 +5,9 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-07-22T07:44:02.965321Z'
+publishDate: '2026-07-22T09:37:05.982130Z'
 publication_types:
 - article-journal
 publication: '*La gazette des mathématiciens*'
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2020/02/Prado-1.pdf
+url_pdf: uploads/Prado-1.pdf
 ---

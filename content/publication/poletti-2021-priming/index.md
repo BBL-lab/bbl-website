@@ -7,10 +7,10 @@ authors:
 - J. Prado
 - C. Thevenot
 date: '2021-01-01'
-publishDate: '2026-07-22T07:44:02.920781Z'
+publishDate: '2026-07-22T09:37:05.943975Z'
 publication_types:
 - article-journal
 publication: '*British Journal of Developmental Psychology*'
 doi: 10.1111/bjdp.12363
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2020/10/Polettietal2020.pdf
+url_pdf: uploads/Polettietal2020.pdf
 ---

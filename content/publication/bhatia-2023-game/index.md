@@ -9,10 +9,10 @@ authors:
 - J. Prado
 - M.-L. Gardes
 date: '2023-01-01'
-publishDate: '2026-07-22T07:44:02.837510Z'
+publishDate: '2026-07-22T09:37:05.871081Z'
 publication_types:
 - article-journal
 publication: '*Journal of Computer Assisted Learning*'
 doi: 10.1111/jcal.12726
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2022/08/MMF_PDF.pdf
+url_pdf: uploads/MMF_PDF.pdf
 ---

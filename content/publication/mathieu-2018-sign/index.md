@@ -11,10 +11,10 @@ authors:
 - C. Thevenot
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-07-22T07:44:02.990485Z'
+publishDate: '2026-07-22T09:37:06.004229Z'
 publication_types:
 - article-journal
 publication: '*Cerebral Cortex*'
 doi: 10.1093/cercor/bhx064
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2018/08/Mathieu_CerebCortex_2018.pdf
+url_pdf: uploads/Mathieu_CerebCortex_2018.pdf
 ---

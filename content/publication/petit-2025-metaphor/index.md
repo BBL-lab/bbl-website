@@ -8,10 +8,10 @@ authors:
 - J. Prado
 - I. A. Noveck
 date: '2025-01-01'
-publishDate: '2026-07-22T07:44:02.710662Z'
+publishDate: '2026-07-22T09:37:05.782525Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Psychology: Learning, Memory, and Cognition*'
 doi: 10.1037/xlm0001381
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2024/06/metaphor-preprint.pdf
+url_pdf: uploads/metaphor-preprint.pdf
 ---

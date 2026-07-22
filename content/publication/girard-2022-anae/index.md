@@ -5,9 +5,9 @@ authors:
 - C. Girard
 - J. Prado
 date: '2022-01-01'
-publishDate: '2026-07-22T07:44:02.825029Z'
+publishDate: '2026-07-22T09:37:05.860276Z'
 publication_types:
 - article-journal
 publication: '*ANAE*'
-url_pdf: https://bbl-lab.fr/wp-content/uploads/2023/01/003_001_013_ANAE_180_GIRARD.pdf
+url_pdf: uploads/003_001_013_ANAE_180_GIRARD.pdf
 ---

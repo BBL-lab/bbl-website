@@ -7,8 +7,6 @@ sections:
   - block: hero
     content:
       title: |
-        Brain, Behavior,
-        and Learning Lab
       image:
         filename: welcome.jpg
       text: |

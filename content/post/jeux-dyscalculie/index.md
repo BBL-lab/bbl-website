@@ -12,7 +12,7 @@ featured: true
 
 Dyscalculia is a learning disorder affecting numbers and mathematics, and it concerns roughly 5 to 10% of children worldwide. People with dyscalculia may struggle to grasp the concept of number and the relations between numbers, to memorize arithmetic facts, to carry out calculations, and to handle everyday situations involving numbers.
 
-To help people understand what that actually feels like, our team has designed a series of six short games that follow a single day — from waking up to the afternoon snack. Each one turns an ordinary daily activity into the kind of effortful puzzle that numbers can become for someone with dyscalculia:
+To help people understand what that actually feels like, our team has designed a series of six short games that follow a single day, from waking up to the afternoon snack. Each one turns an ordinary daily activity into the kind of effortful puzzle that numbers can become for someone with dyscalculia:
 
 1. **Waking up** — the clock game
 2. **Getting dressed** — the sock game

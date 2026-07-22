@@ -1,5 +1,3 @@
-Your version ships with eleven colour themes and seven font sets, so there's real room to move without any CSS. Here's a corrected config/_default/params.yaml:
-
 # SITE SETUP
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/

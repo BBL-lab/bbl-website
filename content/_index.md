@@ -15,7 +15,7 @@ sections:
           <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center (CRNL)" style="height:120px; width:auto;"></a>
         </div>
 
-        The ***Brain, Behavior, and Learning lab*** studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children learn to understand numbers and use reasoning. The lab is co-led by Jérôme Prado and Cléa Girard. We are part of the EDUWELL team at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France.
+        The ***Brain, Behavior, and Learning lab*** studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children learn to understand numbers and use reasoning. The lab is led by [Jérôme Prado](author/jerome-prado/) and [Cléa Girard](author/clea-girard/). We are part of the EDUWELL team at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France.
   - block: markdown
     content:
       title: ''

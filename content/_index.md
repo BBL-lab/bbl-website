@@ -12,7 +12,7 @@ sections:
       text: |
         <br>
         
-        We study the cognitive and neural mechanisms of human learning and development. Using brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. We also study how this knowledge can help us understand learning disabilities and inform educational practices. The lab is led by Jérôme Prado and is based at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France. We are part of the EDUWELL team.
+        The **Brain, Behavior, and Learning lab** studies the cognitive and neural mechanisms of human learning and development. Using brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. We also study how this knowledge can help us understand learning disabilities and inform educational practices. The lab is led by Jérôme Prado and is based at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France. We are part of the EDUWELL team.
   
   - block: collection
     content:

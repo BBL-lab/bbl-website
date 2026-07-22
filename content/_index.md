@@ -4,25 +4,17 @@ title:
 date: 2022-10-24
 type: landing
 sections:
-  - block: markdown
-    content:
-      title:
-      text: |
-        <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:2.5rem; padding:1.5rem 0 0.5rem 0;">
-          <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:140px; width:auto;">
-          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center (CRNL)" style="height:95px; width:auto;"></a>
-        </div>
-    design:
-      columns: '1'
-
-  - block: hero
+- block: hero
     content:
       title: |
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
+        <div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem; margin-bottom:1.25rem;">
+          <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:90px; width:auto;">
+          <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center (CRNL)" style="height:62px; width:auto;"></a>
+        </div>
+
         The ***Brain, Behavior, and Learning lab*** studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. The lab is led by Jérôme Prado and is part of the EDUWELL team at the [Lyon Neuroscience Research Center (CRNL)](https://www.crnl.fr) in Lyon, France.
 
   - block: markdown
@@ -30,9 +22,9 @@ sections:
       title:
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:4rem; padding:1rem 0;">
-          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:88px; width:auto;"></a>
-          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:52px; width:auto;"></a>
-          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:84px; width:auto;"></a>
+          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:110px; width:auto;"></a>
+          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:65px; width:auto;"></a>
+          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:105px; width:auto;"></a>
         </div>
     design:
       columns: '1'

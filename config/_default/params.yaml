@@ -5,8 +5,8 @@ Your version ships with eleven colour themes and seven font sets, so there's rea
 # Documentation: https://docs.hugoblox.com/
 # Appearance
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: bbl
+  theme_night: bbl
   font: academic
   font_size: L
 # SEO
@@ -32,7 +32,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 # Site footer

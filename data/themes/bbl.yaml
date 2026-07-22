@@ -1,0 +1,40 @@
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "BBL"
+    vendor: "bbl-lab"
+    version: "1.0.0"
+    license: "MIT"
+    description: "Brain, Behavior and Learning Lab colours"
+
+  type: "dual"
+
+  light:
+    colors:
+      primary: "#00797d"    # logo teal
+      secondary: "#600060"  # logo purple
+      neutral: "#1f2933"
+    surfaces:
+      background: "#ffffff"
+      foreground: "#1f2933"
+      header:
+        background: "#f6f7f6"
+        foreground: "#1f2933"
+      footer:
+        background: "#ffffff"
+        foreground: "#5b6670"
+
+  dark:
+    colors:
+      primary: "#4db6ba"    # teal, lightened for dark backgrounds
+      secondary: "#bd7fbd"  # purple, lightened
+      neutral: "#d5dbe0"
+    surfaces:
+      background: "#12171c"
+      foreground: "#d5dbe0"
+      header:
+        background: "#1a2026"
+        foreground: "#f0f4f7"
+      footer:
+        background: "#12171c"
+        foreground: "#8b969f"

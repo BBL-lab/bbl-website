@@ -3,8 +3,8 @@
 # Documentation: https://docs.hugoblox.com/
 # Appearance
 appearance:
-  theme_day: earth
-  theme_night: earth
+  theme_day: mr_robot
+  theme_night: mr_robot
   font: classic
   font_size: L
 # SEO

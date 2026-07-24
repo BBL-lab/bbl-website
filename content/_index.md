@@ -14,11 +14,12 @@ sections:
         .bbl-hero-media{flex:1 1 340px;min-width:280px;}
         .bbl-logos{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:2rem;margin-bottom:1.5rem;}
         .bbl-slideshow{position:relative;width:100%;padding-top:66%;border-radius:14px;overflow:hidden;}
-        .bbl-slideshow img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:bblfade 18s infinite;}
+        .bbl-slideshow img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:bblfade 20s infinite;}
         .bbl-slideshow img:nth-child(1){animation-delay:0s;}
-        .bbl-slideshow img:nth-child(2){animation-delay:6s;}
-        .bbl-slideshow img:nth-child(3){animation-delay:12s;}
-        @keyframes bblfade{0%{opacity:0}4%{opacity:1}30%{opacity:1}34%{opacity:0}100%{opacity:0}}
+        .bbl-slideshow img:nth-child(2){animation-delay:5s;}
+        .bbl-slideshow img:nth-child(3){animation-delay:10s;}
+        .bbl-slideshow img:nth-child(4){animation-delay:15s;}
+        @keyframes bblfade{0%{opacity:0}4%{opacity:1}25%{opacity:1}29%{opacity:0}100%{opacity:0}}
         @media (prefers-reduced-motion: reduce){.bbl-slideshow img{animation:none}.bbl-slideshow img:nth-child(1){opacity:1}}
         </style>
 
@@ -35,6 +36,7 @@ sections:
               <img src="uploads/photos/hero1.jpg" alt="A child taking part in a study">
               <img src="uploads/photos/hero2.jpg" alt="EEG recording session">
               <img src="uploads/photos/hero3.jpg" alt="The lab team">
+              <img src="uploads/photos/hero4.jpg" alt="Research in the lab">
             </div>
           </div>
         </div>

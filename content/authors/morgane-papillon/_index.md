@@ -21,7 +21,7 @@ social:
     icon_pack: fas
     link: ''
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'morgane.papillon@cnrs.fr'
+email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 # Organizational groups that you belong to (for People widget)

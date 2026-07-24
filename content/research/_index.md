@@ -15,7 +15,7 @@ sections:
         .bbl-topic-img img{width:100%;height:auto;border-radius:12px;display:block;}
         </style>
 
-        Our goal is to identify the cognitive and neural processes underlying functions that are critical to human learning and development — reasoning, and thinking about numbers and mathematics.
+        Our goal is to identify the cognitive and neural processes underlying functions that are critical to human learning and development: reasoning and thinking about numbers.
 
         We combine behavioral assessments with brain imaging, including functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). Below are some of the questions we work on.
     design:
@@ -28,7 +28,7 @@ sections:
       text: |
         <div class="bbl-topic">
           <div class="bbl-topic-text">
-            <p>Becoming fluent in arithmetic is one of the central achievements of primary school. Our work suggests that this fluency does not only depend on memorizing facts, but also on the progressive automatization of counting procedures — and we use both behavioral paradigms and neuroimaging to track how these mechanisms change over development.</p>
+            <p>Becoming fluent in arithmetic is one of the central achievements of primary school. Our work suggests that this fluency does not only depend on memorizing facts, but also on the progressive automatization of counting procedures. We use both behavioral paradigms and neuroimaging to track how these mechanisms change over development.</p>
             <p><strong>Key papers:</strong> <a href="{{< relref "/publication/prado-2026-counting" >}}">Prado &amp; Thevenot (2026)</a> · <a href="{{< relref "/publication/mathieu-2016-running" >}}">Mathieu et al. (2016)</a></p>
           </div>
           <div class="bbl-topic-img">

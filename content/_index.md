@@ -29,7 +29,7 @@ sections:
               <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:135px;width:auto;">
               <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Lyon Neuroscience Research Center" style="height:93px;width:auto;"></a>
             </div>
-            <p>The <strong><em>Brain, Behavior, and Learning lab</em></strong> studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children acquire fundamental skills such as reasoning and numerical cognition. The lab is led by <a href="author/jerome-prado/">Jérôme Prado</a> and <a href="author/clea-girard/">Cléa Girard</a>, and is part of the EDUWELL team at the <a href="https://www.crnl.fr" target="_blank" rel="noopener">Lyon Neuroscience Research Center (CRNL)</a> in Lyon, France.</p>
+            <p>The <strong><em>Brain, Behavior, and Learning lab</em></strong> studies the cognitive and neural mechanisms of human learning and development. Using behavioral methods and brain imaging, we explore how children learn to understand numbers and to reason. The lab is led by <a href="author/jerome-prado/">Jérôme Prado</a> and <a href="author/clea-girard/">Cléa Girard</a>, and is part of the EDUWELL team at the <a href="https://www.crnl.fr" target="_blank" rel="noopener">Lyon Neuroscience Research Center (CRNL)</a> in Lyon, France.</p>
           </div>
           <div class="bbl-hero-media">
             <div class="bbl-slideshow">

@@ -14,7 +14,7 @@ sections:
         .bbl-hero-media{flex:1 1 340px;min-width:280px;}
         .bbl-logos{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:2rem;margin-bottom:1.5rem;}
         .bbl-slideshow{position:relative;width:100%;padding-top:66%;border-radius:14px;overflow:hidden;}
-        .bbl-slideshow img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:bblfade 18s infinite;}
+        .bbl-slideshow img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:bblfade 12s infinite;}
         .bbl-slideshow img:nth-child(1){animation-delay:0s;}
         .bbl-slideshow img:nth-child(2){animation-delay:6s;}
         .bbl-slideshow img:nth-child(3){animation-delay:12s;}

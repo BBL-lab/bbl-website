@@ -10,9 +10,9 @@ tags:
 featured: true
 ---
 
-Educational inequalities are unusually pronounced in France, and few subjects are debated more fiercely. Why do some pupils acquire fundamental skills more easily than others? Why do gaps in achievement persist despite public policies designed to reduce them? And do these gaps stem above all from the school, the family, the individual characteristics of pupils — or from the interaction between them?
+Educational inequalities are unusually pronounced in France, and few subjects are debated more fiercely. Why do some pupils acquire fundamental skills more easily than others? Why do gaps in achievement persist despite public policies designed to reduce them? And do these gaps stem above all from the school, the family, the individual characteristics of pupils, or from the interaction between them?
 
-*Inégalités scolaires: approche croisée entre sociologie et psychologie cognitive*, which we have co-edited with [Cléa Girard](../../author/clea-girard/) and Stanislas Morel, takes an unusual approach to these questions. Rather than juxtaposing disciplinary perspectives, each chapter is co-written by a sociologist and a cognitive psychologist working together, so that the complementarities between the two fields become visible — and so that single-cause explanations of educational inequality can be left behind.
+*Inégalités scolaires: approche croisée entre sociologie et psychologie cognitive*, which we have co-edited with [Cléa Girard](../../author/clea-girard/) and Stanislas Morel, takes an unusual approach to these questions. Rather than juxtaposing disciplinary perspectives, each chapter is co-written by a sociologist and a cognitive psychologist working together, so that the complementarities between the two fields become visible.
 
 The contributions explore the interactions between family environment, cognitive development, teaching practices and school learning. Individual chapters address the construction of academic skills, shared reading, behavioural genetics, preschool education, difficulties in learning to read, and dyslexia.
 

@@ -32,9 +32,10 @@ sections:
           </div>
           <div class="bbl-hero-media">
             <div class="bbl-slideshow">
-              <img src="uploads/photos/hero1.jpg" alt="A child taking part in a study">
-              <img src="uploads/photos/hero2.jpg" alt="EEG recording session">
-              <img src="uploads/photos/hero3.jpg" alt="The lab team">
+              <img src="uploads/photos/hero1.jpg" 
+              <img src="uploads/photos/hero2.jpg" 
+              <img src="uploads/photos/hero3.jpg"
+              <img src="uploads/photos/hero4.jpg" 
             </div>
           </div>
         </div>

@@ -57,20 +57,20 @@ sections:
     content:
       title: What we do
       text: |
-        We study the cognitive and neural mechanisms behind children's learning, combining behavioral experiments with brain imaging — and we ask how that knowledge can inform teaching.
+        We study the cognitive and neural mechanisms behind children's learning, combining behavioral experiments with brain imaging.
       items:
         - icon: calculator
           icon_pack: fas
           name: Learning arithmetic
-          description: How children become fluent with numbers, and why that fluency rests on automatizing procedures rather than memorizing facts.
+          description: How children become fluent with numbers, and why that fluency rests as much on automatizing procedures as on memorizing facts.
         - icon: brain
           icon_pack: fas
           name: Reasoning
-          description: The cognitive and neural bases of deductive reasoning, and how reasoning relates to the development of mathematical skills.
+          description: The cognitive and neural bases of reasoning, and how reasoning relates to the development of mathematical skills.
         - icon: puzzle-piece
           icon_pack: fas
           name: Learning difficulties
-          description: What makes mathematics hard for some children, and what dyscalculia involves at the behavioral and neural level.
+          description: What makes mathematics hard for some children, and where dyscalculia comes from.
     design:
       columns: '1'
   - block: markdown

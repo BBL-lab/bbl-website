@@ -53,7 +53,7 @@ sections:
         </div>
     design:
       columns: '1'
-- block: features
+  - block: features
     content:
       title: What we do
       text: |

@@ -9,11 +9,11 @@ sections:
       text: |
         ### Postdoctoral fellows
 
-        There are no funded positions available at this time. However, if you have your own funding and would like to join the lab, or are applying for funding and would like sponsorship for your application, please get in touch with Jérôme Prado.
+        There are no funded positions available at this time. However, if you have your own funding and would like to join the lab, or are applying for funding and would like sponsorship for your application, please get in touch with Jérôme Prado or Cléa Girard.
 
         ### PhD students
 
-        Please contact Jérôme Prado if you are interested in applying for a PhD position in the lab.
+        Please contact Jérôme Prado or Cléa Girard if you are interested in applying for a PhD position in the lab.
 
         ### Undergraduate and Master's students
 

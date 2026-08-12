@@ -11,7 +11,7 @@ sections:
 
         ### Our current study: PREMATH
 
-        <img src="../uploads/photos/premath.jpg" alt="DESCRIBE THE IMAGE" style="width:70%;max-width:640px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
+        <img src="../uploads/photos/premath.jpg" alt="DESCRIBE THE IMAGE" style="width:100%;max-width:480px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
 
         Why do some children find learning to read and to count easier than others? The PREMATH project, funded by the FRM, investigates how children's everyday home environment shapes the development of early language and numerical skills. We are especially interested in comparing children born preterm with children born at term, since being born early is associated with a greater risk of later difficulties.
 

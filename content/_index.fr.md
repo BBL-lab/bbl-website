@@ -103,7 +103,7 @@ sections:
       title: ''
       subtitle: ''
       text: |
-        {{% cta cta_link="https://bbl-lab.github.io/bbl-website/publication/" cta_text="Voir toutes nos publications →" %}}
+        {{% cta cta_link="./publication/" cta_text="Voir toutes nos publications →" %}}
     design:
       columns: '1'
   - block: markdown

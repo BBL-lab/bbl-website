@@ -1,0 +1,19 @@
+main:
+  - name: Recherche
+    url: research
+    weight: 10
+  - name: Équipe
+    url: people
+    weight: 20
+  - name: Publications
+    url: 'https://bbl-lab.github.io/bbl-website/publication/'
+    weight: 30
+  - name: Actualités
+    url: post
+    weight: 40
+  - name: Postes à pourvoir
+    url: open-positions
+    weight: 50
+  - name: Participer
+    url: participate
+    weight: 60

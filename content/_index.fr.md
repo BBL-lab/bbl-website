@@ -25,17 +25,17 @@ sections:
         <div class="bbl-hero">
           <div class="bbl-hero-text">
             <div class="bbl-logos">
-              <img src="uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:135px;width:auto;">
-              <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="uploads/logos/crnl.png" alt="Centre de Recherche en Neurosciences de Lyon" style="height:93px;width:auto;"></a>
+              <img src="../uploads/logos/bbl.png" alt="Brain, Behavior and Learning Lab" style="height:135px;width:auto;">
+              <a href="https://www.crnl.fr" target="_blank" rel="noopener"><img src="../uploads/logos/crnl.png" alt="Centre de Recherche en Neurosciences de Lyon" style="height:93px;width:auto;"></a>
             </div>
-            <p>Le laboratoire <strong><em>Brain, Behavior, and Learning</em></strong> étudie les mécanismes cognitifs et cérébraux de l'apprentissage et du développement humains. À l'aide de méthodes comportementales et d'imagerie cérébrale, nous explorons comment les enfants acquièrent des compétences fondamentales telles que le raisonnement et la cognition numérique. Le laboratoire est dirigé par <a href="author/jerome-prado/">Jérôme Prado</a> et <a href="author/clea-girard/">Cléa Girard</a>, et fait partie de l'équipe EDUWELL au <a href="https://www.crnl.fr" target="_blank" rel="noopener">Centre de Recherche en Neurosciences de Lyon (CRNL)</a>, à Lyon.</p>
+            <p>Le laboratoire <strong><em>Cerveau, Comportement et Apprentissage (Brain, Behavior, and Learning, BBL)</em></strong> étudie les mécanismes cognitifs et cérébraux de l'apprentissage et du développement chez l'homme. À l'aide de méthodes comportementales et d'imagerie cérébrale, nous explorons comment les enfants apprennent à manipuler les nombres et à raisonner. Le laboratoire est dirigé par <a href="author/jerome-prado/">Jérôme Prado</a> et <a href="author/clea-girard/">Cléa Girard</a>, et fait partie de l'équipe EDUWELL au <a href="https://www.crnl.fr" target="_blank" rel="noopener">Centre de Recherche en Neurosciences de Lyon (CRNL)</a>, à Lyon.</p>
           </div>
           <div class="bbl-hero-media">
             <div class="bbl-slideshow">
-              <img src="uploads/photos/hero1.jpg" alt="Un enfant participe à une étude">
-              <img src="uploads/photos/hero2.jpg" alt="Séance d'enregistrement EEG">
-              <img src="uploads/photos/hero3.jpg" alt="L'équipe du laboratoire">
-              <img src="uploads/photos/hero4.jpg" alt="Travail de recherche au laboratoire">
+              <img src="../uploads/photos/hero1.jpg" alt="Un enfant participe à une étude">
+              <img src="../uploads/photos/hero2.jpg" alt="Séance d'enregistrement EEG">
+              <img src="../uploads/photos/hero3.jpg" alt="L'équipe du laboratoire">
+              <img src="../uploads/photos/hero4.jpg" alt="Travail de recherche au laboratoire">
             </div>
           </div>
         </div>
@@ -46,9 +46,9 @@ sections:
       title: ''
       text: |
         <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:4rem; padding:1rem 0;">
-          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="uploads/logos/cnrs.png" alt="CNRS" style="height:132px; width:auto;"></a>
-          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="uploads/logos/inserm.png" alt="Inserm" style="height:78px; width:auto;"></a>
-          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:126px; width:auto;"></a>
+          <a href="https://www.cnrs.fr" target="_blank" rel="noopener"><img src="../uploads/logos/cnrs.png" alt="CNRS" style="height:132px; width:auto;"></a>
+          <a href="https://www.inserm.fr" target="_blank" rel="noopener"><img src="../uploads/logos/inserm.png" alt="Inserm" style="height:78px; width:auto;"></a>
+          <a href="https://www.univ-lyon1.fr" target="_blank" rel="noopener"><img src="../uploads/logos/lyon1.png" alt="Université Claude Bernard Lyon 1" style="height:126px; width:auto;"></a>
         </div>
     design:
       columns: '1'
@@ -56,62 +56,5 @@ sections:
     content:
       title: Nos recherches
       text: |
-        Nous étudions les mécanismes cognitifs et cérébraux de l'apprentissage chez l'enfant, en combinant expériences comportementales et imagerie cérébrale — et nous cherchons comment ces connaissances peuvent éclairer l'enseignement.
+        Nous étudions les mécanismes cognitifs et cérébraux de l'apprentissage chez l'enfant, en combinant expériences comportementales et imagerie cérébrale. Nous cherchons aussi comment ces connaissances peuvent éclairer l'enseignement.
       items:
-        - icon: calculator
-          icon_pack: fas
-          name: Apprendre l'arithmétique
-          description: Comment les enfants deviennent fluides avec les nombres, et pourquoi cette fluidité repose sur l'automatisation de procédures plutôt que sur la seule mémorisation de faits.
-        - icon: brain
-          icon_pack: fas
-          name: Le raisonnement
-          description: Les bases cognitives et cérébrales du raisonnement déductif, et ses liens avec le développement des compétences mathématiques.
-        - icon: puzzle-piece
-          icon_pack: fas
-          name: Les difficultés d'apprentissage
-          description: Ce qui rend les mathématiques difficiles pour certains enfants, et ce qu'implique la dyscalculie aux niveaux comportemental et cérébral.
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |
-        {{% cta cta_link="./research/" cta_text="Découvrir nos recherches →" %}}
-    design:
-      columns: '1'
-  - block: collection
-    content:
-      title: Actualités récentes
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: compact
-      columns: '1'
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |
-        {{% cta cta_link="https://bbl-lab.github.io/bbl-website/publication/" cta_text="Voir toutes nos publications →" %}}
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: ''
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Rencontrer l'équipe →" %}}
-    design:
-      columns: '1'
----

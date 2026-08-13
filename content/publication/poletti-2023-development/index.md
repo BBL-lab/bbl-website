@@ -7,7 +7,7 @@ authors:
 - J. Prado
 - C. Thevenot
 date: '2023-01-01'
-publishDate: '2026-07-22T09:37:05.849203Z'
+publishDate: '2026-08-13T12:26:53.737378Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Child Psychology*'

@@ -4,7 +4,7 @@ title: 'The Interplay Between Learning Arithmetic and Learning to Read: Insights
 authors:
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-07-22T09:37:06.020502Z'
+publishDate: '2026-08-13T12:26:53.936407Z'
 publication_types:
 - chapter
 publication: '*Heterogeneity of Function in Numerical Cognition*'

@@ -5,7 +5,7 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-07-22T09:37:05.982130Z'
+publishDate: '2026-08-13T12:26:53.891860Z'
 publication_types:
 - article-journal
 publication: '*La gazette des mathématiciens*'

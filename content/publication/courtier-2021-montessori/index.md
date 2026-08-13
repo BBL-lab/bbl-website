@@ -12,7 +12,7 @@ authors:
 - J. Léone
 - J. Prado
 date: '2021-01-01'
-publishDate: '2026-07-22T09:37:05.921358Z'
+publishDate: '2026-08-13T12:26:53.820979Z'
 publication_types:
 - article-journal
 publication: '*Child Development*'

@@ -7,7 +7,7 @@ authors:
 - C. Thevenot
 - J. Prado
 date: '2016-01-01'
-publishDate: '2026-07-22T09:37:06.036516Z'
+publishDate: '2026-08-13T12:26:53.955045Z'
 publication_types:
 - article-journal
 publication: '*Cognition*'

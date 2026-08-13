@@ -8,7 +8,7 @@ authors:
 - H. Kennedy
 - M.-T. Perenin
 date: '2005-01-01'
-publishDate: '2026-07-22T09:37:06.194533Z'
+publishDate: '2026-08-13T12:26:54.143906Z'
 publication_types:
 - article-journal
 publication: '*Neuron*'

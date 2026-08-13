@@ -5,7 +5,7 @@ authors:
 - K. Uittenhove
 - J. Prado
 date: '2017-01-01'
-publishDate: '2026-07-22T09:37:06.052733Z'
+publishDate: '2026-08-13T12:26:53.974070Z'
 publication_types:
 - article-journal
 publication: '*Développements*'

@@ -5,7 +5,7 @@ authors:
 - J. Prado
 - I. A. Noveck
 date: '2006-01-01'
-publishDate: '2026-07-22T09:37:06.172958Z'
+publishDate: '2026-08-13T12:26:54.118606Z'
 publication_types:
 - article-journal
 publication: '*Thinking & Reasoning*'

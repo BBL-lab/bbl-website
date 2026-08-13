@@ -31,14 +31,6 @@ jobs:
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact --overwrite
-      - name: Link lab members to their author profiles
-        if: ${{ hashFiles('publications.bib') != '' }}
-        run: |
-          cd content/publication
-          grep -rl '^- J\. Prado$' . | xargs -r sed -i 's/^- J\. Prado$/- admin/'
-          grep -rl '^- C\. Girard$' . | xargs -r sed -i 's/^- C\. Girard$/- clea-girard/'
-          grep -rl '^- C\. Constant-Varlet$' . | xargs -r sed -i 's/^- C\. Constant-Varlet$/- charlotte-constant-varlet/'
-          grep -rl '^- J\. Epinat-Duclos$' . | xargs -r sed -i 's/^- J\. Epinat-Duclos$/- justine-epinat-duclos/'
       - name: Create French twins of publication pages
         if: ${{ hashFiles('publications.bib') != '' }}
         run: |

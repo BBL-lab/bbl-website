@@ -19,4 +19,4 @@ user_groups:
   - Membres du laboratoire
 ---
 
-Morgane Papillon rejoint le laboratoire Brain, Behavior, and Learning en tant que doctorante. Son projet de thèse utilise le neurofeedback par IRMf en temps réel (neurofeedback décodé) pour déterminer si des représentations numériques peuvent être partagées entre individus. Morgane s'intéresse également à la façon dont les compétences arithmétiques s'automatisent au cours du développement.
+Morgane Papillon rejoint le laboratoire Cerveau, Comportement et Apprentissage en tant que doctorante. Son projet de thèse utilise le neurofeedback par IRMf en temps réel (neurofeedback décodé) pour déterminer si des représentations numériques peuvent être partagées entre individus. Morgane s'intéresse également à la façon dont les compétences arithmétiques s'automatisent au cours du développement.

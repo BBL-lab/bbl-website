@@ -15,7 +15,7 @@ sections:
         .bbl-topic-img img{width:100%;height:auto;border-radius:12px;display:block;}
         </style>
 
-        Notre objectif est d'identifier les processus cognitifs et cérébraux qui sous-tendent des fonctions essentielles à l'apprentissage et au développement humains — le raisonnement, et la façon dont nous pensons les nombres et les mathématiques.
+        Notre objectif est d'identifier les processus cognitifs et cérébraux qui sous-tendent des fonctions essentielles à l'apprentissage et au développement humains : le raisonnement et la façon dont nous représentons les nombres.
 
         Nous combinons des évaluations comportementales et l'imagerie cérébrale, notamment l'imagerie par résonance magnétique fonctionnelle (IRMf) et l'électroencéphalographie (EEG). Voici quelques-unes des questions sur lesquelles nous travaillons.
     design:
@@ -28,7 +28,7 @@ sections:
       text: |
         <div class="bbl-topic">
           <div class="bbl-topic-text">
-            <p>Devenir performant en arithmétique est l'une des grandes réussites de l'école primaire. Nos travaux suggèrent que cette aisance ne repose pas seulement sur la mémorisation de faits, mais aussi sur l'automatisation progressive de procédures de comptage — et nous utilisons à la fois des paradigmes comportementaux et la neuro-imagerie pour suivre l'évolution de ces mécanismes au cours du développement.</p>
+            <p>Apprendre l'arithmétique élémentaire est l'un des objectifs essentiels à l'école primaire. Nos travaux suggèrent que l'automatisation de l'arithmétique ne repose pas seulement sur la mémorisation de faits, mais aussi sur l'accélération progressive de procédures de comptage. Nous utilisons à la fois des paradigmes comportementaux et la neuro-imagerie pour suivre l'évolution de ces mécanismes au cours du développement.</p>
             <p><strong>Articles clés :</strong> <a href="{{< relref path="/publication/prado-2026-counting" lang="en" >}}">Prado &amp; Thevenot (2026)</a> · <a href="{{< relref path="/publication/mathieu-2016-running" lang="en" >}}">Mathieu et al. (2016)</a></p>
           </div>
           <div class="bbl-topic-img">
@@ -62,7 +62,7 @@ sections:
       text: |
         <div class="bbl-topic">
           <div class="bbl-topic-text">
-            <p>Nous étudions les enfants présentant un trouble des apprentissages en mathématiques (dyscalculie) afin de mieux comprendre l'origine de leurs difficultés. Nos résultats soutiennent une conception de la dyscalculie comme un trouble hétérogène, impliquant à la fois le traitement numérique spécifique et des capacités de raisonnement plus générales.</p>
+            <p>Nous étudions les enfants présentant un trouble des apprentissages en mathématiques (dyscalculie) afin de mieux comprendre l'origine de leurs difficultés. Nos résultats soutiennent une conception de la dyscalculie comme un trouble hétérogène, pouvant impliquer le traitement numérique et certaines capacités de raisonnement.</p>
             <p><strong>Articles clés :</strong> <a href="{{< relref path="/publication/schwartz-2018-impaired" lang="en" >}}">Schwartz et al. (2018)</a> · <a href="{{< relref path="/publication/berteletti-2014-children" lang="en" >}}">Berteletti et al. (2014)</a></p>
           </div>
           <div class="bbl-topic-img">

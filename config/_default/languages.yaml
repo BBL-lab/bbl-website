@@ -6,5 +6,6 @@ fr:
   languageCode: fr-fr
   languageName: Français
   weight: 2
+  title: Cerveau, Comportement et Apprentissage
   params:
-    description: "Le laboratoire Cerveau, Comportement et Apprentissage (Brain, Behavior, and Learning, BBL) étudie les mécanismes cognitifs et cérébraux de l'apprentissage et du développement de l'enfant, avec un intérêt particulier pour la cognition mathématique, le raisonnement et les neurosciences de l'éducation. Il est situé au Centre de Recherche en Neurosciences de Lyon (CRNL), en France."
+    description: "Le laboratoire Brain, Behavior, and Learning (BBL) étudie les mécanismes cognitifs et cérébraux de l'apprentissage et du développement de l'enfant, avec un intérêt particulier pour la cognition mathématique, le raisonnement et les neurosciences de l'éducation. Il est situé au Centre de Recherche en Neurosciences de Lyon (CRNL), en France."

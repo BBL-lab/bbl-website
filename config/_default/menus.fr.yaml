@@ -11,7 +11,7 @@ main:
   - name: Actualités
     url: post
     weight: 40
-  - name: Postes à pourvoir
+  - name: Postes
     url: open-positions
     weight: 50
   - name: Participer

@@ -11,7 +11,7 @@ sections:
 
         ### Notre étude en cours : PREMATH
 
-        <img src="../../uploads/photos/premath.jpg" alt="Illustration du projet PREMATH" style="width:100%;max-width:520px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
+        <img src="../../uploads/photos/premath.jpg" alt="Illustration du projet PREMATH" style="width:100%;max-width:480px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
 
         Pourquoi certains enfants apprennent-ils à lire et à compter plus facilement que d'autres ? Le projet PREMATH, financé par la FRM, étudie comment l'environnement familial quotidien des enfants façonne le développement des premières compétences langagières et numériques. Nous nous intéressons particulièrement à la comparaison entre les enfants nés prématurément et les enfants nés à terme, car une naissance précoce est associée à un risque accru de difficultés ultérieures.
 

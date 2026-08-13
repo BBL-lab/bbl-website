@@ -19,4 +19,4 @@ user_groups:
   - Membres du laboratoire
 ---
 
-Charlotte Constant-Varlet est doctorante au laboratoire Brain, Behavior, and Learning. Ses recherches doctorales portent sur la transmission intergénérationnelle des compétences mathématiques et leurs bases cérébrales, à l'aide de la neuro-imagerie fonctionnelle (IRMf). Elle étudie comment les systèmes cérébraux qui sous-tendent l'arithmétique et le traitement des nombres sont partagés entre les parents et leurs enfants.
+Charlotte Constant-Varlet est doctorante au laboratoire Cerveau, Comportement et Apprentissage. Ses recherches doctorales portent sur la transmission intergénérationnelle des compétences mathématiques et leurs bases cérébrales, à l'aide de la neuro-imagerie fonctionnelle (IRMf). Elle étudie comment les systèmes cérébraux qui sous-tendent l'arithmétique et le traitement des nombres sont partagés entre les parents et leurs enfants.

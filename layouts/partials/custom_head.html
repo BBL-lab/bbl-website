@@ -1,0 +1,17 @@
+{{ if and .IsHome (eq .Lang "en") }}
+<script>
+(function () {
+  try {
+    if (sessionStorage.getItem('bbl-lang-auto')) return;
+    var langs = navigator.languages || [navigator.language || navigator.userLanguage || ''];
+    var prefersFrench = langs.some(function (l) {
+      return (l || '').toLowerCase().indexOf('fr') === 0;
+    });
+    if (prefersFrench) {
+      sessionStorage.setItem('bbl-lang-auto', '1');
+      window.location.replace('fr/');
+    }
+  } catch (e) {}
+})();
+</script>
+{{ end }}

@@ -35,4 +35,4 @@ user_groups:
   - Responsables
 ---
 
-Cléa Girard est chargée de recherche au CNRS, au Centre de Recherche en Neurosciences de Lyon (CRNL). Ses recherches portent sur la manière dont l'environnement familial des enfants façonne le développement de leurs compétences mathématiques, ainsi que sur ses corrélats comportementaux et cérébraux. Son travail interdisciplinaire, à la croisée des sciences cognitives et de la sociologie, vise à éclairer les origines des inégalités scolaires. Elle co-dirige le projet PREMATH avec Jérôme Prado.
+Cléa Girard est chargée de recherche au CNRS, au Centre de Recherche en Neurosciences de Lyon (CRNL). Ses recherches portent sur la manière dont l'environnement familial des enfants façonne le développement de leurs compétences mathématiques, ainsi que sur ses corrélats comportementaux et cérébraux. Son travail interdisciplinaire, à la croisée des sciences cognitives et de la sociologie, vise à éclairer les origines des inégalités scolaires.

@@ -8,7 +8,7 @@ authors:
 - X. Zhou
 - J. R. Booth
 date: '2013-01-01'
-publishDate: '2026-07-22T09:37:06.118677Z'
+publishDate: '2026-08-13T12:26:54.054960Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Human Neuroscience*'

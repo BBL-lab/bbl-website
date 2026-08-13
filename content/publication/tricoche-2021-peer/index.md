@@ -10,7 +10,7 @@ authors:
 - J. Prado
 - M. Meunier
 date: '2021-01-01'
-publishDate: '2026-07-22T09:37:05.910352Z'
+publishDate: '2026-08-13T12:26:53.808074Z'
 publication_types:
 - article-journal
 publication: '*Biology*'

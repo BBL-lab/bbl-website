@@ -7,7 +7,7 @@ authors:
 - M. Baltazar
 - J. Prado
 date: '2024-01-01'
-publishDate: '2026-07-22T09:37:05.804319Z'
+publishDate: '2026-08-13T12:26:53.685726Z'
 publication_types:
 - article-journal
 publication: '*Child Psychiatry & Human Development*'

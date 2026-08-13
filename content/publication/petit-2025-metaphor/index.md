@@ -8,7 +8,7 @@ authors:
 - J. Prado
 - I. A. Noveck
 date: '2025-01-01'
-publishDate: '2026-07-22T09:37:05.782525Z'
+publishDate: '2026-08-13T12:26:53.660080Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Psychology: Learning, Memory, and Cognition*'

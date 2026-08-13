@@ -6,7 +6,7 @@ authors:
 - C. Constant-Varlet
 - J. Prado
 date: '2024-01-01'
-publishDate: '2026-07-22T09:37:05.787949Z'
+publishDate: '2026-08-13T12:26:53.666533Z'
 publication_types:
 - article-journal
 publication: '*Developmental Cognitive Neuroscience*'

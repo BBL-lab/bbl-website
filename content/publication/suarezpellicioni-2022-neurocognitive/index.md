@@ -6,7 +6,7 @@ authors:
 - J. Prado
 - J. R. Booth
 date: '2022-01-01'
-publishDate: '2026-07-22T09:37:05.865625Z'
+publishDate: '2026-08-13T12:26:53.756390Z'
 publication_types:
 - article-journal
 publication: '*Current Opinion in Behavioral Sciences*'

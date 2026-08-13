@@ -58,3 +58,60 @@ sections:
       text: |
         Nous étudions les mécanismes cognitifs et cérébraux de l'apprentissage chez l'enfant, en combinant expériences comportementales et imagerie cérébrale. Nous cherchons aussi comment ces connaissances peuvent éclairer l'enseignement.
       items:
+        - icon: calculator
+          icon_pack: fas
+          name: Apprendre l'arithmétique
+          description: Comment les enfants développent des automatismes avec les nombres, et pourquoi ces automatismes pourraient reposer sur des procédures rapides plutôt que sur la seule mémorisation de faits.
+        - icon: brain
+          icon_pack: fas
+          name: Le raisonnement
+          description: Les bases cognitives et cérébrales du raisonnement déductif, et ses liens avec le développement des compétences mathématiques.
+        - icon: puzzle-piece
+          icon_pack: fas
+          name: Les difficultés d'apprentissage
+          description: Ce qui rend les mathématiques difficiles pour certains enfants, et ce qu'implique la dyscalculie aux niveaux comportemental et cérébral.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |
+        {{% cta cta_link="./research/" cta_text="Découvrir nos recherches →" %}}
+    design:
+      columns: '1'
+  - block: collection
+    content:
+      title: Actualités récentes
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: compact
+      columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |
+        {{% cta cta_link="https://bbl-lab.github.io/bbl-website/publication/" cta_text="Voir toutes nos publications →" %}}
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Rencontrer l'équipe →" %}}
+    design:
+      columns: '1'
+---

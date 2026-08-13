@@ -19,4 +19,4 @@ user_groups:
   - Membres du laboratoire
 ---
 
-Tatum Holley est assistante de recherche et coordinatrice au laboratoire Brain, Behavior, and Learning. Elle est titulaire d'une licence de psychologie du Bates College. Elle assure le fonctionnement quotidien des projets de recherche du laboratoire : recrutement des participants, planification, recueil des données et passation des tests cognitifs auprès des enfants.
+Tatum Holley est assistante de recherche et coordinatrice au laboratoire Cerveau, Comportement et Apprentissage. Elle est titulaire d'une licence de psychologie du Bates College. Elle assure le fonctionnement quotidien des projets de recherche du laboratoire : recrutement des participants, planification, recueil des données et passation des tests cognitifs auprès des enfants.

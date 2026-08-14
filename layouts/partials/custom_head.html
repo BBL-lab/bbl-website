@@ -1,24 +1,50 @@
 <style>
-/* Fix: on mobile the theme stretches the brand link full-width over the
-   menu/search buttons. Confine it to the middle, let taps pass through the
-   empty area, and scale the font to fit instead of truncating. */
+/* Mobile navbar brand: confine to the space between the menu and search icons,
+   left-aligned, taps pass through the empty area. Font is sized to fit by the
+   script below; this clamp is a fallback if JS is unavailable. */
 @media (max-width: 991.98px) {
   .navbar-brand-mobile-wrapper {
     pointer-events: none;      /* empty area no longer eats taps */
-    padding-left: 3.25rem;     /* clear the hamburger on the left */
-    padding-right: 3.25rem;    /* clear the search icon on the right */
+    padding-left: 2.75rem;     /* reserve space for the hamburger */
+    padding-right: 2.75rem;    /* reserve space for the search icon */
+    justify-content: flex-start;
   }
   .navbar-brand-mobile-wrapper .navbar-brand {
     pointer-events: auto;      /* the title itself stays clickable */
+    margin: 0;                 /* left-align instead of centering */
     display: inline-block;
-    max-width: 100%;
     white-space: nowrap;
     line-height: 1.2;
-    /* Scale with screen width: never below 0.62rem, never above 1.2rem */
-    font-size: clamp(0.62rem, 3.2vw, 1.2rem);
+    font-size: clamp(0.7rem, 3.6vw, 1.2rem);
   }
 }
 </style>
+<script>
+/* Size the mobile brand title to fill the width between the menu and search icons. */
+(function () {
+  function fitBrand() {
+    var wrap = document.querySelector('.navbar-brand-mobile-wrapper');
+    if (!wrap || wrap.offsetParent === null) return;   // hidden on desktop -> skip
+    var brand = wrap.querySelector('.navbar-brand');
+    if (!brand) return;
+    var cs = getComputedStyle(wrap);
+    var avail = wrap.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    if (avail <= 0) return;
+    var MAX = 1.3, MIN = 0.6;                            // rem ceiling / floor
+    brand.style.fontSize = MAX + 'rem';
+    var natural = brand.scrollWidth;                    // width at MAX
+    if (natural > 0) {
+      var size = MAX * (avail / natural);
+      if (size > MAX) size = MAX;
+      if (size < MIN) size = MIN;
+      brand.style.fontSize = size + 'rem';
+    }
+  }
+  window.addEventListener('DOMContentLoaded', fitBrand);
+  window.addEventListener('load', fitBrand);
+  window.addEventListener('resize', fitBrand);
+})();
+</script>
 {{ if and .IsHome (eq .Lang "en") }}
 <script>
 (function () {

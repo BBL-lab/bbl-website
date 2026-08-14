@@ -1,3 +1,24 @@
+<style>
+/* Fix: on mobile the theme stretches the brand link full-width over the
+   menu/search buttons. Confine it to the middle, let taps pass through the
+   empty area, and scale the font to fit instead of truncating. */
+@media (max-width: 991.98px) {
+  .navbar-brand-mobile-wrapper {
+    pointer-events: none;      /* empty area no longer eats taps */
+    padding-left: 3.25rem;     /* clear the hamburger on the left */
+    padding-right: 3.25rem;    /* clear the search icon on the right */
+  }
+  .navbar-brand-mobile-wrapper .navbar-brand {
+    pointer-events: auto;      /* the title itself stays clickable */
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    line-height: 1.2;
+    /* Scale with screen width: never below 0.62rem, never above 1.2rem */
+    font-size: clamp(0.62rem, 3.2vw, 1.2rem);
+  }
+}
+</style>
 {{ if and .IsHome (eq .Lang "en") }}
 <script>
 (function () {

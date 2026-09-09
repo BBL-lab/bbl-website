@@ -20,7 +20,7 @@ sections:
         **What taking part involves.**
 
         - Two play sessions at our lab in Lyon
-        - Six weeks of games to play at home — which are yours to keep afterwards
+        - Six weeks of games to play at home (which are yours to keep afterwards!)
         - Compensation of €75 per visit to the lab
 
         By taking part, you help researchers better understand how playing together as a family supports children's earliest learning.

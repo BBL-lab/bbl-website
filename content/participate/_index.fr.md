@@ -34,7 +34,7 @@ sections:
     content:
       title: Formulaire de contact
       text: |
-        <iframe src="https://framaforms.org/participez-a-nos-etudes-1784725856" title="Formulaire de contact" width="100%" height="800" style="border:none; max-width:100%;" loading="lazy"></iframe>
+        <iframe src="https://framaforms.org/participez-a-nos-etudes-1788972607" title="Formulaire de contact" width="100%" height="800" style="border:none; max-width:100%;" loading="lazy"></iframe>
     design:
       columns: '1'
   - block: contact

@@ -35,7 +35,7 @@ header:
     highlight_active_link: true
 # Site footer
 footer:
-  text: '<a href="https://www.facebook.com/bbllab" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook fa-lg"></i></a>'
+  text: '<a href="https://www.facebook.com/bbllab" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook fa-2x"></i></a>'
   copyright:
     notice: '© {year} Brain, Behavior, and Learning Lab. This work is licensed under {license}'
     license:

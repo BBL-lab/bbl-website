@@ -4,7 +4,7 @@ title: "The relationship between deductive reasoning and the syntax of language 
 authors:
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-08-13T17:05:11.532236Z'
+publishDate: '2026-09-09T08:34:51.981925Z'
 publication_types:
 - article-journal
 publication: "*L'année psychologique/Topics in Cognitive Psychology*"

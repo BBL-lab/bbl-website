@@ -8,7 +8,7 @@ authors:
 - P. Courtier
 - J. Prado
 date: '2021-01-01'
-publishDate: '2026-08-13T17:05:11.312495Z'
+publishDate: '2026-09-09T08:34:51.834967Z'
 publication_types:
 - article-journal
 publication: '*Raisons éducatives*'

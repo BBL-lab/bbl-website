@@ -5,7 +5,7 @@ authors:
 - J. Prado
 - S. Caparos
 date: '2026-01-01'
-publishDate: '2026-08-13T17:05:10.779899Z'
+publishDate: '2026-09-09T08:34:51.647275Z'
 publication_types:
 - article-journal
 publication: '*Motivation and Emotion*'

@@ -8,7 +8,7 @@ authors:
 - A. Poisson
 - J. Prado
 date: '2020-01-01'
-publishDate: '2026-08-13T17:05:11.484546Z'
+publishDate: '2026-09-09T08:34:51.912888Z'
 publication_types:
 - article-journal
 publication: '*Neuropsychologia*'

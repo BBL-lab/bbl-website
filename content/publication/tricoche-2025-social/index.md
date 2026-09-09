@@ -9,7 +9,7 @@ authors:
 - J. Prado
 - M. Meunier
 date: '2025-01-01'
-publishDate: '2026-08-13T17:05:10.813800Z'
+publishDate: '2026-09-09T08:34:51.679667Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Child Psychology*'

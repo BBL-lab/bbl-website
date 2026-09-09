@@ -9,7 +9,7 @@ authors:
 - L. Longo
 - J. Prado
 date: '2022-01-01'
-publishDate: '2026-08-13T17:05:11.208068Z'
+publishDate: '2026-09-09T08:34:51.822171Z'
 publication_types:
 - article-journal
 publication: '*Psychological Science*'

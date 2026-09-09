@@ -5,7 +5,7 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-08-13T17:05:11.488933Z'
+publishDate: '2026-09-09T08:34:51.919388Z'
 publication_types:
 - chapter
 publication: "*Enseigner les mathématiques. Didactique et enjeux de l'apprentissage*"

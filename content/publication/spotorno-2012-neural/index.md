@@ -8,7 +8,7 @@ authors:
 - J.-B. Van der Henst
 - I. A. Noveck
 date: '2012-01-01'
-publishDate: '2026-08-13T17:05:11.597990Z'
+publishDate: '2026-09-09T08:34:52.077000Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage*'

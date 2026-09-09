@@ -5,8 +5,10 @@ authors:
 - T. Nakai
 - J. Prado
 date: '2026-01-01'
-publishDate: '2026-08-13T17:05:10.754801Z'
+publishDate: '2026-09-09T08:34:51.614242Z'
 publication_types:
 - article-journal
 publication: '*iScience*'
+doi: 10.1016/j.isci.2026.117180
+url_pdf: uploads/nakai-2026-developmental.pdf
 ---

@@ -8,7 +8,7 @@ authors:
 - H. Bouchet
 - J. Prado
 date: '2025-01-01'
-publishDate: '2026-08-13T17:05:10.804773Z'
+publishDate: '2026-09-09T08:34:51.666667Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'

@@ -67,4 +67,15 @@ sections:
         - [Vous inscrire (études chez les adultes)](https://form.crnl.fr/index.php/823648?lang=fr)
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      text: |
+        <p style="text-align:center;margin:0.5rem 0;">
+          <a href="https://www.facebook.com/bbllab" target="_blank" rel="noopener" style="text-decoration:none;font-weight:600;">
+            <i class="fab fa-facebook fa-lg" style="margin-right:0.4rem;"></i>Suivez-nous sur Facebook
+          </a>
+        </p>
+    design:
+      columns: '1'
 ---

@@ -11,7 +11,7 @@ authors:
 - F. Lecaignard
 - N. Bedoin
 date: '2026-01-01'
-publishDate: '2026-09-09T08:34:51.633853Z'
+publishDate: '2026-09-09T08:39:20.300175Z'
 publication_types:
 - article-journal
 publication: '*PeerJ*'

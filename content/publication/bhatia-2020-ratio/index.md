@@ -10,7 +10,7 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2020-01-01'
-publishDate: '2026-09-09T08:34:51.900047Z'
+publishDate: '2026-09-09T08:39:20.569431Z'
 publication_types:
 - article-journal
 publication: '*Quarterly Journal of Experimental Psychology*'

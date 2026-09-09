@@ -8,7 +8,7 @@ authors:
 - J. Prado
 - D. Pélisson
 date: '2023-01-01'
-publishDate: '2026-09-09T08:34:51.757807Z'
+publishDate: '2026-09-09T08:39:20.428028Z'
 publication_types:
 - article-journal
 publication: '*Behavioral Sciences*'

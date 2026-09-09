@@ -1,0 +1,60 @@
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{/* Choose an icon based on the publication type. */}}
+{{ $icon_pack := "far" }}
+{{ $icon := "fa-file-alt" }}
+{{ $types := $item.Params.publication_types }}
+{{ if $types }}
+  {{ if or (in $types "chapter") (in $types "book") }}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-book-open" }}
+  {{ else if in $types "thesis" }}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-graduation-cap" }}
+  {{ else if or (in $types "paper-conference") (in $types "speech") }}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-users" }}
+  {{ end }}
+{{ end }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="{{ $icon_pack }} {{ $icon }} pub-icon" aria-hidden="true"></i>
+
+  {{/* APA Style */}}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+  ({{- $item.Date.Format "2006" -}}).
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+  {{ end }}
+  <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
+
+  {{/* MLA Style */}}
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}.
+  </span>
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}},
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}},
+  {{ end }}
+  {{- $item.Date.Format "2006" -}}.
+
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>

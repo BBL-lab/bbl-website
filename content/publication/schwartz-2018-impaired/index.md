@@ -8,7 +8,7 @@ authors:
 - A. Poisson
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-09-09T08:34:51.943730Z'
+publishDate: '2026-09-09T08:39:20.613270Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage: Clinical*'

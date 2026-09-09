@@ -4,7 +4,7 @@ authors:
 - M.-L. Gardes
 - J. Prado
 date: '2016-01-01'
-publishDate: '2026-09-09T08:34:52.000840Z'
+publishDate: '2026-09-09T08:39:20.670003Z'
 publication_types:
 - article-journal
 publication: '*Cahiers pédagogiques*'

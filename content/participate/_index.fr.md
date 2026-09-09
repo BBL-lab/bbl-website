@@ -25,7 +25,7 @@ sections:
 
         En participant, vous aidez la recherche à mieux comprendre comment les jeux en famille soutiennent les tout premiers apprentissages.
 
-        Les séances se déroulent à [PLANETE](https://www.crnl.fr/fr/plateforme/planete), une plateforme du Centre de Recherche en Neurosciences de Lyon dédiée à la recherche auprès des enfants, animée par notre collègue Justine Epinat-Duclos. C'est un lieu accueillant, pensé pour mettre les jeunes enfants à l'aise.
+        Les séances se déroulent à [PLANETE](https://www.crnl.fr/fr/plateforme/planete), une plateforme du Centre de Recherche en Neurosciences de Lyon dédiée à la recherche auprès des enfants. C'est un lieu accueillant, pensé pour mettre les jeunes enfants à l'aise.
 
         Si vous souhaitez participer, ou simplement en savoir plus avant de vous décider, n'hésitez pas à nous contacter à l'aide du formulaire ci-dessous.
     design:

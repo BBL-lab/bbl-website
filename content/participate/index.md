@@ -66,4 +66,15 @@ sections:
         [Join the CRNL volunteer registry](https://www.crnl.fr/en/page-base/volunteer-register?language=en)
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      text: |
+        <p style="text-align:center;margin:0.5rem 0;">
+          <a href="https://www.facebook.com/bbllab" target="_blank" rel="noopener" style="text-decoration:none;font-weight:600;">
+            <i class="fab fa-facebook fa-lg" style="margin-right:0.4rem;"></i>Follow us on Facebook
+          </a>
+        </p>
+    design:
+      columns: '1'
 ---

@@ -11,13 +11,20 @@ sections:
 
         ### Our current study: PREMATH
 
-        <img src="../uploads/photos/premath.jpg" alt="DESCRIBE THE IMAGE" style="width:100%;max-width:480px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
+        <img src="../uploads/photos/premath.jpg" alt="A parent and child playing a learning game together" style="width:100%;max-width:520px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
 
         Why do some children find learning to read and to count easier than others? The PREMATH project, funded by the FRM, investigates how children's everyday home environment shapes the development of early language and numerical skills. We are especially interested in comparing children born preterm with children born at term, since being born early is associated with a greater risk of later difficulties.
 
-        **What taking part involves.** Your child plays a series of game-like activities designed to measure early skills in numbers, language, and reasoning. Parents are asked to complete questionnaires about the kinds of activities you do together at home. We also provide a series of games and activities you can do at home with your child.
+        **Who can take part.** Families with a child currently in their final year of kindergarten (*grande section de maternelle*), whether your child was born preterm or at term.
 
-        **Who we are looking for.** Families with a child currently in kindergarten, whether your child was born preterm or at term.
+        **What taking part involves.**
+
+        - Two play sessions at our lab in Lyon
+        - Six weeks of fun, educational activities to do at home
+        - A set of games we provide for you to keep
+        - Compensation of €75 per visit
+
+        By taking part, you help researchers better understand how playing together as a family supports children's earliest learning.
 
         If you would like to take part, or simply want to know more before deciding, please get in touch using the form below.
     design:

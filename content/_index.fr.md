@@ -80,6 +80,14 @@ sections:
         {{% cta cta_link="./research/" cta_text="Découvrir nos recherches →" %}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |
+        {{% cta cta_link="./participate/" cta_text="Participer à nos études →" %}}
+    design:
+      columns: '1'
   - block: collection
     content:
       title: Actualités récentes

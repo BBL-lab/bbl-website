@@ -13,18 +13,19 @@ sections:
 
         <img src="../../uploads/photos/premath.jpg" alt="Un parent et un enfant jouent ensemble à un jeu éducatif" style="width:100%;max-width:520px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
 
-        Pourquoi certains enfants apprennent-ils à lire et à compter plus facilement que d'autres ? Le projet PREMATH, financé par la FRM, étudie comment l'environnement familial quotidien des enfants façonne le développement des premières compétences langagières et numériques. Nous nous intéressons particulièrement à la comparaison entre les enfants nés prématurément et les enfants nés à terme, car une naissance précoce est associée à un risque accru de difficultés ultérieures.
+        Pourquoi certains enfants apprennent-ils à lire et à compter plus facilement que d'autres ? Le projet PREMATH, financé par la FRM, étudie comment les jeux en famille participent au développement des premières compétences langagières et numériques. Nous nous intéressons particulièrement à la comparaison entre les enfants nés prématurément et les enfants nés à terme, car une naissance précoce est associée à un risque accru de difficultés ultérieures.
 
         **Qui peut participer.** Les familles dont l'enfant est en grande section de maternelle, qu'il soit né prématurément ou à terme.
 
         **En quoi consiste la participation.**
 
         - Deux séances de jeux à notre laboratoire, à Lyon
-        - Six semaines d'activités éducatives et ludiques à faire à la maison
-        - Un ensemble de jeux que nous vous offrons
-        - Une indemnisation de 75 € par visite
+        - Six semaines de jeux à faire à la maison — que vous gardez ensuite : ils sont pour vous !
+        - Une indemnisation de 75 € par visite au laboratoire
 
         En participant, vous aidez la recherche à mieux comprendre comment les jeux en famille soutiennent les tout premiers apprentissages.
+
+        Les séances se déroulent à [PLANETE](https://www.crnl.fr/fr/plateforme/planete), une plateforme du Centre de Recherche en Neurosciences de Lyon dédiée à la recherche auprès des enfants, animée par notre collègue Justine Epinat-Duclos. C'est un lieu accueillant, pensé pour mettre les jeunes enfants à l'aise.
 
         Si vous souhaitez participer, ou simplement en savoir plus avant de vous décider, n'hésitez pas à nous contacter à l'aide du formulaire ci-dessous.
     design:
@@ -54,6 +55,16 @@ sections:
         longitude: '4.901767051647394'
       directions: En transports en commun, prenez le bus C9 jusqu'au terminus (« Hôpitaux Est »). Le laboratoire se trouve dans le bâtiment 452, sur le campus de l'hôpital du Vinatier.
       autolink: true
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Une autre façon de nous aider
+      text: |
+        Au-delà de cette étude, le Centre de Recherche en Neurosciences de Lyon tient un registre de volontaires souhaitant être informés des futures études. L'inscription prend environ cinq minutes ; vous êtes ensuite informé·e par e-mail des études qui vous correspondent, et vous restez toujours libre de décider d'y participer ou non.
+
+        - [Inscrire votre enfant (études chez les moins de 18 ans)](https://form.crnl.fr/index.php/614733?lang=fr)
+        - [Vous inscrire (études chez les adultes)](https://form.crnl.fr/index.php/823648?lang=fr)
     design:
       columns: '1'
 ---

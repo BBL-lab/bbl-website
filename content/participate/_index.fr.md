@@ -11,13 +11,20 @@ sections:
 
         ### Notre étude en cours : PREMATH
 
-        <img src="../../uploads/photos/premath.jpg" alt="Illustration du projet PREMATH" style="width:100%;max-width:480px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
+        <img src="../../uploads/photos/premath.jpg" alt="Un parent et un enfant jouent ensemble à un jeu éducatif" style="width:100%;max-width:520px;height:auto;border-radius:12px;display:block;margin:1rem auto 1.5rem auto;">
 
         Pourquoi certains enfants apprennent-ils à lire et à compter plus facilement que d'autres ? Le projet PREMATH, financé par la FRM, étudie comment l'environnement familial quotidien des enfants façonne le développement des premières compétences langagières et numériques. Nous nous intéressons particulièrement à la comparaison entre les enfants nés prématurément et les enfants nés à terme, car une naissance précoce est associée à un risque accru de difficultés ultérieures.
 
-        **En quoi consiste la participation.** Votre enfant réalise une série d'activités ludiques conçues pour évaluer ses premières compétences en nombres, en langage et en raisonnement. Les parents remplissent des questionnaires sur les activités que vous faites ensemble à la maison. Nous vous proposons également une série de jeux et d'activités à faire chez vous avec votre enfant.
+        **Qui peut participer.** Les familles dont l'enfant est en grande section de maternelle, qu'il soit né prématurément ou à terme.
 
-        **Qui nous recherchons.** Des familles avec un enfant actuellement en maternelle, que votre enfant soit né prématurément ou à terme.
+        **En quoi consiste la participation.**
+
+        - Deux séances de jeux à notre laboratoire, à Lyon
+        - Six semaines d'activités éducatives et ludiques à faire à la maison
+        - Un ensemble de jeux que nous vous offrons
+        - Une indemnisation de 75 € par visite
+
+        En participant, vous aidez la recherche à mieux comprendre comment les jeux en famille soutiennent les tout premiers apprentissages.
 
         Si vous souhaitez participer, ou simplement en savoir plus avant de vous décider, n'hésitez pas à nous contacter à l'aide du formulaire ci-dessous.
     design:

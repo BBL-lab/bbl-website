@@ -3,7 +3,7 @@ title: Tatum Holley
 first_name: Tatum
 last_name: Holley
 superuser: false
-role: Ingénieure d'étude
+role: Ingénieure d'étude CNRS
 rank: 10
 organizations:
   - name: Centre de Recherche en Neurosciences de Lyon (CRNL)

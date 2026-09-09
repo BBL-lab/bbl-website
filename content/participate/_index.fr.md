@@ -20,7 +20,7 @@ sections:
         **En quoi consiste la participation.**
 
         - Deux séances de jeux à notre laboratoire, à Lyon
-        - Six semaines de jeux à faire à la maison — que vous gardez ensuite : ils sont pour vous !
+        - Six semaines de jeux à faire à la maison (que vous gardez ensuite : ils sont pour vous !)
         - Une indemnisation de 75 € par visite au laboratoire
 
         En participant, vous aidez la recherche à mieux comprendre comment les jeux en famille soutiennent les tout premiers apprentissages.

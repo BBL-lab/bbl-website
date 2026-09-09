@@ -25,7 +25,7 @@ sections:
 
         By taking part, you help researchers better understand how playing together as a family supports children's earliest learning.
 
-        Testing takes place at [PLANETE](https://www.crnl.fr/en/plateforme/planete?language=en), a facility at the Lyon Neuroscience Research Center dedicated to research with children, run by our colleague Justine Epinat-Duclos. It's a welcoming space designed to put young children at ease.
+        Testing takes place at [PLANETE](https://www.crnl.fr/en/plateforme/planete?language=en), a facility at the Lyon Neuroscience Research Center dedicated to research with children. It's a welcoming space designed to put young children at ease.
 
         If you would like to take part, or simply want to know more before deciding, please get in touch using the form below.
     design:

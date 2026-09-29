@@ -18,6 +18,6 @@ Les contributions explorent les interactions entre environnement familial, déve
 
 L'ouvrage est né du séminaire international sur les inégalités scolaires que nous coorganisons avec Stanislas Morel, et qui réunit sociologues et spécialistes des sciences cognitives depuis 2022.
 
-Le livre est publié aux Presses Universitaires de Lyon le 24 septembre 2026.
+Le livre est disponible aux Presses Universitaires de Lyon.
 
 [Plus d'informations sur le site de l'éditeur](https://pul.univ-lyon2.fr/product/show/9782729715236/inegalites-scolaires)

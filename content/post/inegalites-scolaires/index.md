@@ -18,6 +18,6 @@ The contributions explore the interactions between family environment, cognitive
 
 The book grew out of the international seminar series on educational inequalities that we have been co-organising with Stanislas Morel, which has brought sociologists and cognitive scientists into the same room since 2022.
 
-The book is written in French and will be published by the Presses Universitaires de Lyon on 24 September 2026.
+The book is written in French and is available through the Presses Universitaires de Lyon.
 
 [More information from the publisher](https://pul.univ-lyon2.fr/product/show/9782729715236/inegalites-scolaires)

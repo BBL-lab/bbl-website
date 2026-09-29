@@ -27,4 +27,4 @@ Une précision importante, que nous rappelons dans le livret lui-même : les per
 
 Le livret a été réalisé par des membres de l'équipe Brain, Behavior and Learning du CRNL : Lise Viallet, Aurélie Lafaix, Charlotte Constant-Varlet, Jérôme Prado, Honorine Bouchet et Tatum Holley.
 
-[Télécharger les jeux (PDF)](Jeux_dyscalculie.pdf)
+[Télécharger les jeux (PDF)](/uploads/Jeux_dyscalculie.pdf)

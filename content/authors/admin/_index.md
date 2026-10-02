@@ -43,6 +43,9 @@ social:
 email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+# Redirect from old page
+aliases:
+  - /rushmore_teams/jerome-prado/
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - Principal Investigators

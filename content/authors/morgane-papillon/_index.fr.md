@@ -12,8 +12,8 @@ bio: J'utilise le neurofeedback par IRMf en temps réel pour étudier la cogniti
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-email: 'morgane.papillon@inserm.fr'
+    link: 'mailto:morgane.papillon@inserm.fr'
+email: ''
 highlight_name: false
 user_groups:
   - Membres du laboratoire

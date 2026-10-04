@@ -20,4 +20,4 @@ user_groups:
   - Membres du laboratoire
 ---
 
-Mahaut Lafont-Baldauf est doctorant au laboratoire Brain, Behavior, and Learning, codirigé par Jérôme Prado et Cléa Girard. Ses recherches de thèse s'inscrivent dans le projet PREMATH, qui étudie comment l'environnement familial quotidien des enfants façonne le développement de leurs premières compétences numériques et langagières, en comparant les enfants nés prématurément et les enfants nés à terme.
+Mahaut Lafont-Baldauf est doctorant au laboratoire Cerveau, Comportement et Apprentissage, codirigé par Jérôme Prado et Cléa Girard. Ses recherches de thèse s'inscrivent dans le projet PREMATH, qui étudie comment l'environnement familial quotidien des enfants façonne le développement de leurs premières compétences numériques et langagières, en comparant les enfants nés prématurément et les enfants nés à terme.

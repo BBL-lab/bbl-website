@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: ''
-email: ''
+email: 'morgane.papillon@inserm.fr'
 highlight_name: false
 user_groups:
   - Membres du laboratoire

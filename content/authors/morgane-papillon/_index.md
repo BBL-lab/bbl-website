@@ -19,9 +19,9 @@ bio: I use real-time fMRI neurofeedback to study numerical cognition and the aut
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:morgane.papillon@inserm.fr'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'morgane.papillon@inserm.fr'
+email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 # Organizational groups that you belong to (for People widget)

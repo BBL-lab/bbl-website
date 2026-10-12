@@ -3,7 +3,7 @@ title: Léa Chrétien
 first_name: Léa
 last_name: Chrétien
 superuser: false
-role: Chercheuse post-doctorante
+role: Post-doctorante
 rank: 20
 organizations:
   - name: Centre de Recherche en Neurosciences de Lyon (CRNL)

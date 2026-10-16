@@ -12,11 +12,11 @@ bio: I study how children's home environment shapes the development of their ear
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:lalie.zampin@univ-lyon2.fr'
 email: ''
 highlight_name: false
 user_groups:
   - Lab members
 ---
 
-Lalie Zampin is a Master's student in neuropsychology at Université Lumière Lyon 2, completing her research internship in the context of the PREMATH project, which investigates how children's everyday home environment shapes the development of early mathematical and language skills.
+Lalie Zampin is a Master's student in neuropsychology at Université Lumière Lyon 2. She is completing her research internship in the context of the PREMATH project, which investigates how children's everyday home environment shapes the development of early mathematical and language skills.

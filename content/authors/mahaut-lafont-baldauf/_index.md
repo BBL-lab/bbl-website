@@ -21,7 +21,7 @@ bio: I study how children's home environment shapes the development of their ear
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:mahaut.lafont--baldauf@crns.fr'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 # Highlight the author in author lists? (true/false)

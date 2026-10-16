@@ -13,7 +13,7 @@ social:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:mahaut.lafont--baldauf@crns.fr'
 email: ''
 highlight_name: false
 user_groups:

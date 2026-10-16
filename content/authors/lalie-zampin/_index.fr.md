@@ -12,7 +12,7 @@ bio: J'étudie comment l'environnement familial des enfants façonne le dévelop
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:lalie.zampin@univ-lyon2.fr'
 email: ''
 highlight_name: false
 user_groups:

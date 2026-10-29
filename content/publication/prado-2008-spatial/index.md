@@ -5,7 +5,7 @@ authors:
 - J.-B. Van der Henst
 - I. A. Noveck
 date: '2008-01-01'
-publishDate: '2026-09-09T08:39:20.812425Z'
+publishDate: '2026-10-29T08:58:29.519975Z'
 publication_types:
 - article-journal
 publication: '*Quarterly Journal of Experimental Psychology*'

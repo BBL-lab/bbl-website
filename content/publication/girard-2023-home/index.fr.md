@@ -8,7 +8,7 @@ authors:
 - J. Epinat-Duclos
 - J. Prado
 date: '2023-01-01'
-publishDate: '2026-09-09T08:39:20.434362Z'
+publishDate: '2026-10-29T08:58:29.126455Z'
 publication_types:
 - article-journal
 publication: '*Learning and Individual Differences*'

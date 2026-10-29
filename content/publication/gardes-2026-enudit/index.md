@@ -1,13 +1,13 @@
 ---
-title: 'The Early NUmerical DIdactical Test (ENUDIT): A French-language monitoring
+title: 'The Early NUmerical DIdactical Test (ENUDIT): a French-language monitoring
   test to assess early numerical abilities of children from 3 to 6'
 authors:
-- M.-L. Gardes
-- M.-C. Croset
+- Marie-Line Gardes
+- Marie-Caroline Croset
 - A. Samson
-- J. Prado
+- Jérôme Prado
 date: '2026-01-01'
-publishDate: '2026-09-09T08:39:20.321649Z'
+publishDate: '2026-10-29T08:58:29.010581Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Early Years Education*'

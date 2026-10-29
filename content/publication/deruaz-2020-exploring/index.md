@@ -9,7 +9,7 @@ authors:
 - F. Peteers
 - E. Robotti
 date: '2020-01-01'
-publishDate: '2026-09-09T08:39:20.550214Z'
+publishDate: '2026-10-29T08:58:29.248567Z'
 publication_types:
 - article-journal
 publication: '*Journal of Mathematical Behavior*'

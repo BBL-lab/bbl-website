@@ -4,7 +4,7 @@ authors:
 - J. Prado
 - I. A. Noveck
 date: '2007-01-01'
-publishDate: '2026-09-09T08:39:20.837924Z'
+publishDate: '2026-10-29T08:58:29.546274Z'
 publication_types:
 - article-journal
 publication: '*Journal of Cognitive Neuroscience*'

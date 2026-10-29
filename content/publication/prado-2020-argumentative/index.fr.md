@@ -7,7 +7,7 @@ authors:
 - E. Trouche
 - H. Mercier
 date: '2020-01-01'
-publishDate: '2026-09-09T08:39:20.576037Z'
+publishDate: '2026-10-29T08:58:29.275194Z'
 publication_types:
 - article-journal
 publication: '*Brain and Language*'

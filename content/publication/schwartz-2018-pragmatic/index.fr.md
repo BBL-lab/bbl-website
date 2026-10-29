@@ -6,7 +6,7 @@ authors:
 - I. A. Noveck
 - J. Prado
 date: '2018-01-01'
-publishDate: '2026-09-09T08:39:20.657290Z'
+publishDate: '2026-10-29T08:58:29.359385Z'
 publication_types:
 - article-journal
 publication: '*Developmental Science*'

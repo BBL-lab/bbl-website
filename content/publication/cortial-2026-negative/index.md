@@ -6,7 +6,7 @@ authors:
 - J. Prado
 - S. Caparos
 date: '2026-01-01'
-publishDate: '2026-10-29T09:12:04.190848Z'
+publishDate: '2026-10-29T09:28:52.332379Z'
 publication_types:
 - article-journal
 publication: '*Review of Philosophy and Psychology*'

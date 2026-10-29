@@ -6,7 +6,7 @@ authors:
 - J. Prado
 - S. Caparos
 date: '2026-01-01'
-publishDate: '2026-10-29T09:12:04.218729Z'
+publishDate: '2026-10-29T09:28:52.378716Z'
 publication_types:
 - article-journal
 publication: '*Thinking & Reasoning*'

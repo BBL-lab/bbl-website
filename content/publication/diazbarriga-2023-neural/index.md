@@ -10,7 +10,7 @@ authors:
 - C. Thevenot
 - J. Prado
 date: '2023-01-01'
-publishDate: '2026-10-29T09:12:04.279565Z'
+publishDate: '2026-10-29T09:28:52.491517Z'
 publication_types:
 - article-journal
 publication: '*Developmental Cognitive Neuroscience*'

@@ -7,7 +7,7 @@ authors:
 - J. Prado
 - C. Thevenot
 date: '2021-01-01'
-publishDate: '2026-10-29T09:12:04.357310Z'
+publishDate: '2026-10-29T09:28:52.630149Z'
 publication_types:
 - article-journal
 publication: '*British Journal of Developmental Psychology*'

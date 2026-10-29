@@ -4,7 +4,7 @@ authors:
 - I. A. Noveck
 - J. Prado
 date: '2007-01-01'
-publishDate: '2026-10-29T08:58:29.552662Z'
+publishDate: '2026-10-29T09:12:04.528007Z'
 publication_types:
 - article-journal
 publication: '*Behavioral and Brain Sciences*'

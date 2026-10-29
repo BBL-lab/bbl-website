@@ -6,7 +6,7 @@ authors:
 - J. Prado
 - S. Caparos
 date: '2025-01-01'
-publishDate: '2026-10-29T08:58:29.030638Z'
+publishDate: '2026-10-29T09:12:04.236681Z'
 publication_types:
 - article-journal
 publication: '*Cognitive Science*'

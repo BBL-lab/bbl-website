@@ -4,7 +4,7 @@ authors:
 - F. Schwartz
 - J. Prado
 date: '2019-01-01'
-publishDate: '2026-10-29T08:58:29.307505Z'
+publishDate: '2026-10-29T09:12:04.385600Z'
 publication_types:
 - article-journal
 publication: '*Cahiers pédagogiques*'

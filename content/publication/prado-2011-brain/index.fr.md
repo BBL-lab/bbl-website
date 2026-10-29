@@ -6,7 +6,7 @@ authors:
 - A. Chadha
 - J. R. Booth
 date: '2011-01-01'
-publishDate: '2026-10-29T09:12:04.500447Z'
+publishDate: '2026-10-29T09:28:52.877929Z'
 publication_types:
 - article-journal
 publication: '*Journal of Cognitive Neuroscience*'

@@ -7,7 +7,7 @@ authors:
 - A. Samson
 - Jérôme Prado
 date: '2026-01-01'
-publishDate: '2026-10-29T09:12:04.225888Z'
+publishDate: '2026-10-29T09:28:52.391754Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Early Years Education*'

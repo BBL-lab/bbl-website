@@ -10,7 +10,7 @@ authors:
 - D. Sperber
 - I. A. Noveck
 date: '2015-01-01'
-publishDate: '2026-10-29T09:12:04.461535Z'
+publishDate: '2026-10-29T09:28:52.806345Z'
 publication_types:
 - article-journal
 publication: '*Journal of Cognitive Neuroscience*'
